@@ -1,0 +1,54 @@
+body{
+  background-color: azure;
+  font-family:  arialself,helvetica;
+}
+
+
+h1 {
+  background-color: white;
+  border: solid 20px;
+  border-color: cornflowerblue;
+  color: cornflowerblue;
+  
+}
+
+h2 {
+  background-color: cornflowerblue;
+  color: white;
+}
+
+p {
+  background-color: white;
+  color: black;
+}
+
+nav ul li {
+  display: flex;
+  list-style: none;
+  margin: 10;
+}
+
+nav ul li{
+  padding: 10px  ;
+  color: cornflowerblue;
+  text-decoration: none;
+  border:solid 3px;
+}
+
+nav ul li {
+  color: azure;
+  background: cornflowerblue;
+}
+
+h3 {
+  background-color: cornflowerblue;
+  color: black;
+}
+
+foorter{
+  background-color: c;
+  border: solid 5px;
+  border-color: aqua;
+  color: aquamarine;
+}
+
